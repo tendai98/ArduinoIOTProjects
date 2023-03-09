@@ -1,0 +1,9 @@
+{
+   "apiKey" : "AIzaSyCJLz86jXJKRCKxpVnvxnL8qrQUntCd9vQ",
+   "appId" : "1:542543035627:web:b8f3a60705bea0759f92ae",
+   "authDomain" : "tracking-monitoring-system.firebaseapp.com",
+   "databaseURL" : "https://tracking-monitoring-system-default-rtdb.firebaseio.com",
+   "messagingSenderId" : "542543035627",
+   "projectId" : "tracking-monitoring-system",
+   "storageBucket" : "tracking-monitoring-system.appspot.com"
+}

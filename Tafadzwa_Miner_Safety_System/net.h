@@ -1,0 +1,8 @@
+#include <ESP8266WiFi.h>
+
+#define TRACKER_NODE_AP "NODE::00EE1122"
+#define TRACKER_NODE_PS "1234567890"
+
+void initAP(){
+    WiFi.softAP(TRACKER_NODE_AP, TRACKER_NODE_PS);
+}
